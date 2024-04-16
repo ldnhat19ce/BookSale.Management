@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookSale.Management.Infrastructure", "BookSale.Management.Infrastructure\BookSale.Management.Infrastructure.csproj", "{0FB49814-30F7-48DF-A580-650CA0E34CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookSale.Management.DataAccess", "BookSale.Management.DataAccess\BookSale.Management.DataAccess.csproj", "{4947CA26-E00E-41EE-B204-F713383007BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookSale.Management.DataAccess", "BookSale.Management.DataAccess\BookSale.Management.DataAccess.csproj", "{4947CA26-E00E-41EE-B204-F713383007BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
